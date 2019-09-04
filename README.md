@@ -20,9 +20,9 @@ A repo to play with the common git operations in and learn how to get working wi
 ## Working definition of Git and what it's done for
 
 ## What do you think the top 3 reasons to use GitHub / GitLab are?
-1. 
-2. 
-3. 
+1. version control
+2. collaboration
+3. version control
 
 ## What is a Pull Request?
 
@@ -34,4 +34,4 @@ A repo to play with the common git operations in and learn how to get working wi
 
 ### Change this image to be something else with different alt data
 You can also do images like the one just below here using the !
-![Oh Spongebob](https://media.giphy.com/media/3oEjI4sFlp73fvEYgw/giphy.gif).
+![Space Legoman](https://media.giphy.com/media/TRFJh3okcGsla/giphy.gif).
